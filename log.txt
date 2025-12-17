@@ -1,0 +1,104 @@
+Dataset Statistics:
+  - Normal nodes: 528019
+  - Fraud nodes: 80439
+  - Fraud Weight: 6.56 (Fraud error counts 6.56x more)
+
+Starting Training...
+Epoch 010 | Loss: 2.1986 | Val AUC: 0.6382 | Val F1: 0.2399
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 020 | Loss: 1.1880 | Val AUC: 0.6819 | Val F1: 0.2744
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 030 | Loss: 0.7712 | Val AUC: 0.6897 | Val F1: 0.2854
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 040 | Loss: 0.6777 | Val AUC: 0.6875 | Val F1: 0.3146
+Epoch 050 | Loss: 0.6536 | Val AUC: 0.6946 | Val F1: 0.3276
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 060 | Loss: 0.6428 | Val AUC: 0.6978 | Val F1: 0.3264
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 070 | Loss: 0.6388 | Val AUC: 0.7001 | Val F1: 0.3304
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 080 | Loss: 0.6359 | Val AUC: 0.7028 | Val F1: 0.3317
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 090 | Loss: 0.6344 | Val AUC: 0.7053 | Val F1: 0.3333
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 100 | Loss: 0.6350 | Val AUC: 0.7056 | Val F1: 0.3386
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 110 | Loss: 0.6331 | Val AUC: 0.7082 | Val F1: 0.3322
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 120 | Loss: 0.6307 | Val AUC: 0.7093 | Val F1: 0.3324
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 130 | Loss: 0.6302 | Val AUC: 0.7102 | Val F1: 0.3353
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 140 | Loss: 0.6286 | Val AUC: 0.7111 | Val F1: 0.3347
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 150 | Loss: 0.6283 | Val AUC: 0.7119 | Val F1: 0.3380
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 160 | Loss: 0.6273 | Val AUC: 0.7128 | Val F1: 0.3378
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 170 | Loss: 0.6264 | Val AUC: 0.7140 | Val F1: 0.3359
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 180 | Loss: 0.6259 | Val AUC: 0.7152 | Val F1: 0.3338
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 190 | Loss: 0.6246 | Val AUC: 0.7160 | Val F1: 0.3366
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 200 | Loss: 0.6249 | Val AUC: 0.7167 | Val F1: 0.3319
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 210 | Loss: 0.6236 | Val AUC: 0.7177 | Val F1: 0.3414
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 220 | Loss: 0.6271 | Val AUC: 0.7156 | Val F1: 0.3362
+Epoch 230 | Loss: 0.6226 | Val AUC: 0.7186 | Val F1: 0.3448
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 240 | Loss: 0.6220 | Val AUC: 0.7182 | Val F1: 0.3430
+Epoch 250 | Loss: 0.6230 | Val AUC: 0.7188 | Val F1: 0.3460
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 260 | Loss: 0.6217 | Val AUC: 0.7193 | Val F1: 0.3406
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 270 | Loss: 0.6211 | Val AUC: 0.7197 | Val F1: 0.3392
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 280 | Loss: 0.6213 | Val AUC: 0.7200 | Val F1: 0.3409
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 290 | Loss: 0.6202 | Val AUC: 0.7204 | Val F1: 0.3419
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 300 | Loss: 0.6200 | Val AUC: 0.7207 | Val F1: 0.3408
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 310 | Loss: 0.6195 | Val AUC: 0.7211 | Val F1: 0.3414
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 320 | Loss: 0.6197 | Val AUC: 0.7212 | Val F1: 0.3409
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 330 | Loss: 0.6198 | Val AUC: 0.7210 | Val F1: 0.3367
+Epoch 340 | Loss: 0.6199 | Val AUC: 0.7211 | Val F1: 0.3445
+Epoch 350 | Loss: 0.6195 | Val AUC: 0.7214 | Val F1: 0.3421
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 360 | Loss: 0.6186 | Val AUC: 0.7220 | Val F1: 0.3396
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 370 | Loss: 0.6193 | Val AUC: 0.7221 | Val F1: 0.3392
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 380 | Loss: 0.6189 | Val AUC: 0.7219 | Val F1: 0.3431
+Epoch 390 | Loss: 0.6182 | Val AUC: 0.7227 | Val F1: 0.3439
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 400 | Loss: 0.6178 | Val AUC: 0.7229 | Val F1: 0.3430
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 410 | Loss: 0.6175 | Val AUC: 0.7231 | Val F1: 0.3427
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 420 | Loss: 0.6170 | Val AUC: 0.7231 | Val F1: 0.3437
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 430 | Loss: 0.6174 | Val AUC: 0.7232 | Val F1: 0.3409
+Checkpoint saved to checkpoints/best_fraud_gnn.pth
+Epoch 440 | Loss: 0.6180 | Val AUC: 0.7228 | Val F1: 0.3365
+Epoch 450 | Loss: 0.6210 | Val AUC: 0.7203 | Val F1: 0.3473
+Epoch 460 | Loss: 0.6197 | Val AUC: 0.7202 | Val F1: 0.3434
+Epoch 470 | Loss: 0.6198 | Val AUC: 0.7212 | Val F1: 0.3352
+Epoch 480 | Loss: 0.6203 | Val AUC: 0.7202 | Val F1: 0.3448
+Epoch 490 | Loss: 0.6204 | Val AUC: 0.7207 | Val F1: 0.3444
+Epoch 500 | Loss: 0.6191 | Val AUC: 0.7214 | Val F1: 0.3432
+
+Loading best model for Test Set evaluation...
+==================================================
+FINAL TEST RESULTS (Risk Control Report)
+==================================================
+AUC (Ranking Quality):     0.7172
+KS:                        0.3182
+F1 Score (Balance):        0.3358
+AUPRC (Precision-Recall):  0.2964
+Recall (Fraud Catch Rate): 0.6638
+==================================================
